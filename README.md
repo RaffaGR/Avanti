@@ -2,7 +2,7 @@
 
 Baseado no prototypo: https://www.figma.com/proto/DqtFxC6312M32mLt8FpJjq/innovation-class?page-id=13%3A673&node-id=13-920&viewport=346%2C140%2C0.11&t=HyGGDSs83f1vbqMJ-1&scaling=scale-down&content-scaling=fixed
 
-![Imagem do Projeto 1 - Frontend](https://github.com/RaffaGR/Avanti/f1.png)
+![Imagem do Projeto 1 - Frontend](https://github.com/RaffaGR/Avanti/blob/main/f1.png)
 
 --- (trocar isso por um traço)
 
@@ -11,7 +11,7 @@ Baseado no prototypo: https://www.figma.com/proto/DqtFxC6312M32mLt8FpJjq/innovat
 Baseado no prototypo: https://www.figma.com/proto/DqtFxC6312M32mLt8FpJjq/innovation-class?page-id=22%3A2864&node-id=22-4293&viewport=359%2C115%2C0.25&t=SHsEqEgaMrXGMKwv-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=22%3A4293&show-proto-sidebar=1
 
 
-![Imagem do Projeto 2 - Backend](https://github.com/RaffaGR/Avanti/b1.png)
+![Imagem do Projeto 2 - Backend](https://github.com/RaffaGR/Avanti/blob/main/b1.png)
 
 
 --- (trocar isso por um traço)
