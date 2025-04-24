@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-b from-black to-gray-900 min-h-screen text-white font-sans;
+}
